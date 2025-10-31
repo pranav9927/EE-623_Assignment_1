@@ -4,11 +4,11 @@ This repository contains the complete submission for the EE623 (Speech Processin
 
 The analysis employs three methods:
 
-Visual Spectrogram Analysis in Praat (Narrow-band for pitch, Wide-band for formants).
+1. Visual Spectrogram Analysis in Praat (Narrow-band for pitch, Wide-band for formants).
 
-Computational Pitch Estimation using the Average Magnitude Difference Function (AMDF), implemented in Python.
+2. Computational Pitch Estimation using the Average Magnitude Difference Function (AMDF), implemented in Python.
 
-Source-Filter Separation using Cepstral Analysis in Python to find the average $F_0$ and formant values over multiple frames.
+3. Source-Filter Separation using Cepstral Analysis in Python to find the average $F_0$ and formant values over multiple frames.
 
 ## 1. Voice Sample Data (Deliverable)
 
