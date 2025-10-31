@@ -121,6 +121,46 @@ The final report presents a detailed comparison of all three methods. The result
 <tr>
 <td><strong>Obj 2 (Cepstral Script)</strong></td>
 <td>129.47 Hz</td>
+
+
+### Summary of Results (Vowel in Plosive 'क')
+
+A similar analysis was performed on the vowel `अ` following the plosive `क` (from `plosive_k.wav`), starting at 1.01s. The results are also highly consistent.
+
+<table>
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Pitch ($F_0$)</th>
+      <th>Formant 1 (F1)</th>
+      <th>Formant 2 (F2)</th>
+      <th>Formant 3 (F3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Obj 1 (Praat Visual)</strong></td>
+      <td>136.2 Hz</td>
+      <td>~573 Hz</td>
+      <td>(Not manually measured)</td>
+      <td>(Not manually measured)</td>
+    </tr>
+    <tr>
+      <td><strong>Obj 1 (AMDF Script)</strong></td>
+      <td>135.69 Hz</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>Obj 2 (Cepstral Script)</strong></td>
+      <td>135.07 Hz</td>
+      <td>760.84 Hz</td>
+      <td>2343.53 Hz</td>
+      <td>4256.40 Hz</td>
+    </tr>
+  </tbody>
+</table>
 <td>732.13 Hz</td>
 <td>2311.23 Hz</td>
 <td>3617.58 Hz</td>
