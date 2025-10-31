@@ -33,55 +33,55 @@ Targeted Phonemes (from Report Section 2.2)
 </thead>
 <tbody>
 <tr>
-<td><code>vowel_a.wav</code></td>
+<td><code>vowel_अ.wav</code></td>
 <td><strong>अ</strong></td>
 <td>Vowel (Unrounded low central)</td>
 <td>131.5 Hz</td>
 </tr>
 <tr>
-<td><code>vowel_aa.wav</code></td>
+<td><code>vowel_आ.wav</code></td>
 <td><strong>आ</strong></td>
 <td>Vowel (Long, open)</td>
 <td>119.2 Hz</td>
 </tr>
 <tr>
-<td><code>vowel_i.wav</code></td>
+<td><code>vowel_इ.wav</code></td>
 <td><strong>इ</strong></td>
 <td>Vowel (Unrounded high front)</td>
 <td>133.9 Hz</td>
 </tr>
 <tr>
-<td><code>vowel_ee.wav</code></td>
+<td><code>vowel_ई.wav</code></td>
 <td><strong>ई</strong></td>
 <td>Vowel (Long, high front)</td>
 <td>135.7 Hz</td>
 </tr>
 <tr>
-<td><code>vowel_e.wav</code></td>
+<td><code>vowel_ए.wav</code></td>
 <td><strong>ए</strong></td>
 <td>Vowel (Unrounded front)</td>
 <td>125.9 Hz</td>
 </tr>
 <tr>
-<td><code>vowel_ae.wav</code></td>
+<td><code>vowel_ऐ.wav</code></td>
 <td><strong>ऐ</strong></td>
 <td>Vowel (Unrounded front)</td>
 <td>137.9 Hz</td>
 </tr>
 <tr>
-<td><code>plosive_k.wav</code></td>
+<td><code>plosive_क.wav</code></td>
 <td><strong>क</strong></td>
 <td>Plosive (Velar, Unaspirated, Voiceless)</td>
 <td>136.2 Hz</td>
 </tr>
 <tr>
-<td><code>plosive_kha.wav</code></td>
+<td><code>plosive_ख.wav</code></td>
 <td><strong>ख</strong></td>
 <td>Plosive (Velar, Aspirated, Voiceless)</td>
 <td>129.9 Hz</td>
 </tr>
 <tr>
-<td><code>plosive_g.wav</code></td>
+<td><code>plosive_ग.wav</code></td>
 <td><strong>ग</strong></td>
 <td>Plosive (Velar, Unaspirated, Voiced)</td>
 <td>129.5 Hz</td>
