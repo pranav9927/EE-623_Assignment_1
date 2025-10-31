@@ -121,7 +121,12 @@ The final report presents a detailed comparison of all three methods. The result
 <tr>
 <td><strong>Obj 2 (Cepstral Script)</strong></td>
 <td>129.47 Hz</td>
-
+<td>732.13 Hz</td>
+<td>2311.23 Hz</td>
+<td>3617.58 Hz</td>
+</tr>
+</tbody>
+</table>
 
 ### Summary of Results (Vowel in Plosive 'क')
 
@@ -161,9 +166,4 @@ A similar analysis was performed on the vowel `अ` following the plosive `क` 
     </tr>
   </tbody>
 </table>
-<td>732.13 Hz</td>
-<td>2311.23 Hz</td>
-<td>3617.58 Hz</td>
-</tr>
-</tbody>
-</table>
+
