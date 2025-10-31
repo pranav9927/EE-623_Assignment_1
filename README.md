@@ -89,7 +89,8 @@ Targeted Phonemes (from Report Section 2.2)
 </tbody>
 </table>
 
-## 2. Summary of Results (Vowel 'अ')
+## 2. Summary of Results
+### Vowel 'अ'
 
 The final report presents a detailed comparison of all three methods. The results for the vowel 'अ' are highly consistent, validating the analysis.
 
@@ -128,9 +129,7 @@ The final report presents a detailed comparison of all three methods. The result
 </tbody>
 </table>
 
-### Summary of Results (Vowel in Plosive 'क')
-
-A similar analysis was performed on the vowel `अ` following the plosive `क` (from `plosive_k.wav`), starting at 1.01s. The results are also highly consistent.
+### Plosive 'क'
 
 <table>
   <thead>
@@ -146,9 +145,9 @@ A similar analysis was performed on the vowel `अ` following the plosive `क` 
     <tr>
       <td><strong>Obj 1 (Praat Visual)</strong></td>
       <td>136.2 Hz</td>
-      <td>~573 Hz</td>
-      <td>(Not manually measured)</td>
-      <td>(Not manually measured)</td>
+      <td>~833 Hz</td>
+      <td>~2414 Hz</td>
+      <td>~3538 Hz</td>
     </tr>
     <tr>
       <td><strong>Obj 1 (AMDF Script)</strong></td>
